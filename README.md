@@ -1,22 +1,22 @@
-# Basic C Programs
+# Basic C Programs :bar_chart:
 
 Welcome to the Basic C Programs repository! This repository contains simple C and C++ programs that are great for beginners who are learning programming. These programs cover various fundamental concepts in programming and can serve as a starting point for your coding journey.
 
-## How to Use
+## How to Use :notebook_with_decorative_cover:
 
 You can clone this repository and compile/run these programs on your local machine. Each program is located in its own directory and includes source code and instructions on how to compile and execute it.
 
 Feel free to explore the programs, modify them, or use them as a reference to learn more about C and C++ programming.
 
-## Contributions
+## Contributions :love_letter: 
 
 If you have any additional C or C++ programs you'd like to contribute to this repository, please feel free to create a pull request. Contributions and improvements are always welcome!
 
-Happy coding!
+Happy coding! :computer:
 
-## Program List
+## Program List :bookmark_tab:
 
-### Simple Programs
+### ➤ Simple Programs 
 
 1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [Source Code](easy_programs/helloWorld.c)
 
@@ -45,7 +45,7 @@ Happy coding!
 11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number. [Source Code](easy_programs/sumOfDigits.cpp)
 
 
-### If-Else
+### ➤ If-Else
 
 12. **Find the Maximum Age of Two Students:** Calculate the maximum age between two students.
 
