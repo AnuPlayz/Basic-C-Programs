@@ -24,9 +24,9 @@ Happy coding!
 
 4. **Addition of Two Float Numbers:** Find and display the sum of two floating-point numbers. [Source Code](easy_programs/floatSum.cpp)
 
-5. **Average of Two Numbers:** Calculate and display the average of two numbers (one integer and one float). [Source Code](easy_programs/avgNum.cpp)
+5. **Average of Two Numbers:** Calculate and display the average of two numbers. [Source Code](easy_programs/avgNum.cpp)
 
-6. **Average of Marks in Five Subjects:** Calculate and display the average score of marks obtained in five subjects. [Source Code](easy_programs/avgfive.cpp)
+6. **Average of Marks in Five Subjects:** Calculate the average score of marks obtained in five subjects. [Source Code](easy_programs/avgfive.cpp)
 
 7. **Variable Value Exchange:** [Source Code](easy_programs/swapNum.cpp)
     - a) **Using a Third Variable:** Swap the values of two variables using a third variable.
@@ -40,4 +40,4 @@ Happy coding!
 
 10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number.
 
-11. **Sum of Digits in a Five-Digit Number:** Calculate and display the sum of all the digits in a five-digit number.
+11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number.
