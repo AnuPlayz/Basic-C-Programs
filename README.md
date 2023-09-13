@@ -2,6 +2,18 @@
 
 Welcome to the Basic C Programs repository! This repository contains simple C and C++ programs that are great for beginners who are learning programming. These programs cover various fundamental concepts in programming and can serve as a starting point for your coding journey.
 
+## How to Use
+
+You can clone this repository and compile/run these programs on your local machine. Each program is located in its own directory and includes source code and instructions on how to compile and execute it.
+
+Feel free to explore the programs, modify them, or use them as a reference to learn more about C and C++ programming.
+
+## Contributions
+
+If you have any additional C or C++ programs you'd like to contribute to this repository, please feel free to create a pull request. Contributions and improvements are always welcome!
+
+Happy coding!
+
 ## Program List
 
 1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [code](simple programs/helloWorld.c)
@@ -29,15 +41,3 @@ Welcome to the Basic C Programs repository! This repository contains simple C an
 10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number.
 
 11. **Sum of Digits in a Five-Digit Number:** Calculate and display the sum of all the digits in a five-digit number.
-
-## How to Use
-
-You can clone this repository and compile/run these programs on your local machine. Each program is located in its own directory and includes source code and instructions on how to compile and execute it.
-
-Feel free to explore the programs, modify them, or use them as a reference to learn more about C and C++ programming.
-
-## Contributions
-
-If you have any additional C or C++ programs you'd like to contribute to this repository, please feel free to create a pull request. Contributions and improvements are always welcome!
-
-Happy coding!
