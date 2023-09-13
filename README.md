@@ -60,3 +60,11 @@ If you have any additional C or C++ programs you'd like to contribute to this re
 17. **Check Vowel or Consonant:** Determine whether a character is a vowel or consonant and display the result. [Source Code](if_else/isVovel.cpp)
 
 18. **Find the Largest Number Among Two Numbers:** Find the largest number between two input numbers. [Source Code](if_else/twoNum.cpp)
+
+### Switch-Case
+
+19. **Simple Arithmetic Operations:** Perform basic arithmetic operations (+, -, *, /, %) on two numbers. [Source Code](switch_case/arithmeticCalc.cpp)
+
+20. **Check Vowel or Consonant (again):** Determine whether a character is a vowel or consonant. [Source Code](switch_case/vovel.cpp)
+
+21. **Day of the Week:** Display the day of the week based on user input. [Source Code](switch_case/weekDay.cpp)
