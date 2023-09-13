@@ -4,7 +4,7 @@ Welcome to the Basic C Programs repository! This repository contains simple C an
 
 ## Program List
 
-1. **Hello World in C:**[hello_world.c](simple_programs/helloWorld.c) A classic program that prints "Hello, World!" to the console.
+1. **Hello World in C:**(simple-programs/helloWorld.c) A classic program that prints "Hello, World!" to the console.
 
 2. **Hello World in C++:** The C++ version of the "Hello, World!" program.
 
