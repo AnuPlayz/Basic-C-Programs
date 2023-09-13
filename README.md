@@ -16,23 +16,23 @@ Happy coding!
 
 ## Program List
 
-1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [code](easy_programs/helloWorld.c)
+1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [Source Code](easy_programs/helloWorld.c)
 
-2. **Hello World in C++:** The C++ version of the "Hello, World!" program.
+2. **Hello World in C++:** The C++ version of the "Hello, World!" program. [Source Code](easy_programs/helloWorld.cpp)
 
-3. **Addition of Two Integer Numbers:** Calculate and display the sum of two integer numbers.
+3. **Addition of Two Integer Numbers:** Calculate and display the sum of two integer numbers. [Source Code](easy_programs/intSum.cpp)
 
-4. **Addition of Two Float Numbers:** Find and display the sum of two floating-point numbers.
+4. **Addition of Two Float Numbers:** Find and display the sum of two floating-point numbers. [Source Code](easy_programs/floatSum.cpp)
 
-5. **Average of Two Numbers:** Calculate and display the average of two numbers (one integer and one float).
+5. **Average of Two Numbers:** Calculate and display the average of two numbers (one integer and one float). [Source Code](easy_programs/avgNum.cpp)
 
-6. **Average of Marks in Five Subjects:** Calculate and display the average score of marks obtained in five subjects.
+6. **Average of Marks in Five Subjects:** Calculate and display the average score of marks obtained in five subjects. [Source Code](easy_programs/avgfive.cpp)
 
-7. **Variable Value Exchange:**
+7. **Variable Value Exchange:** [Source Code](easy_programs/swapNum.cpp)
     - a) **Using a Third Variable:** Swap the values of two variables using a third variable.
     - b) **Without Using a Third Variable:** Swap the values of two variables without using a third variable.
 
-8. **Temperature Conversion:**
+8. **Temperature Conversion:** [Source Code](easy_programs/tempConvert.cpp)
     - a) **Celsius to Fahrenheit:** Convert a temperature from Celsius to Fahrenheit.
     - b) **Fahrenheit to Celsius:** Convert a temperature from Fahrenheit to Celsius.
 
@@ -41,4 +41,3 @@ Happy coding!
 10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number.
 
 11. **Sum of Digits in a Five-Digit Number:** Calculate and display the sum of all the digits in a five-digit number.
->>>>>>> 1915f74aa8ce6d9f3e1914374cca1724c5035029
