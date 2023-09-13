@@ -1,7 +1,5 @@
 # Basic C Programs :bar_chart:
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/AnuPlayz)
-
 > Welcome to the Basic C Programs repository! This repository contains simple C and C++ programs that are great for beginners who are learning programming. These programs cover various fundamental concepts in programming and can serve as a starting point for your coding journey.
 
 ## How to Use :notebook_with_decorative_cover:
