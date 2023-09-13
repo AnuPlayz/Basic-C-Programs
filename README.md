@@ -36,8 +36,8 @@ Happy coding!
     - a) **Celsius to Fahrenheit:** Convert a temperature from Celsius to Fahrenheit.
     - b) **Fahrenheit to Celsius:** Convert a temperature from Fahrenheit to Celsius.
 
-9. **Area of a Circle:** Calculate and display the area of a circle given its radius.
+9. **Area of a Circle:** Calculate and display the area of a circle given its radius. [Source Code](easy_programs/areaCircle.cpp)
 
-10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number.
+10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number. [Source Code](easy_programs/revNum.cpp)
 
-11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number.
+11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number. [Source Code](easy_programs/sumOfDigits.cpp)
