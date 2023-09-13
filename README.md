@@ -14,9 +14,9 @@ If you have any additional C or C++ programs you'd like to contribute to this re
 
 Happy coding! :computer:
 
-## Program List :bookmark_tab:
+## Program List :bookmark_tabs:
 
-### ➤ Simple Programs 
+### Simple Programs 
 
 1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [Source Code](easy_programs/helloWorld.c)
 
