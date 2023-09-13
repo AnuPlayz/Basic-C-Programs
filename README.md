@@ -16,7 +16,7 @@ Happy coding!
 
 ## Program List
 
-###Simple Programs
+### Simple Programs
 
 1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [Source Code](easy_programs/helloWorld.c)
 
@@ -45,11 +45,11 @@ Happy coding!
 11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number. [Source Code](easy_programs/sumOfDigits.cpp)
 
 
-###If-Else
+### If-Else
 
 12. **Find the Maximum Age of Two Students:** Calculate the maximum age between two students.
 
-13. **Find the Largest Number Among Three Numbers:** Find the largest number among three input numbers.
+13. **Largest Among Three Numbers:** Find the largest number among three input numbers.
 
 14. **Check Negative or Positive:** Determine whether a number is negative or positive and display the result.
 
