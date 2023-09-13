@@ -16,6 +16,8 @@ Happy coding!
 
 ## Program List
 
+###Simple Programs
+
 1. **Hello World in C:** A classic program that prints "Hello, World!" to the console. [Source Code](easy_programs/helloWorld.c)
 
 2. **Hello World in C++:** The C++ version of the "Hello, World!" program. [Source Code](easy_programs/helloWorld.cpp)
@@ -41,3 +43,20 @@ Happy coding!
 10. **Reverse of a Five-Digit Number:** Find and display the reverse of a five-digit number. [Source Code](easy_programs/revNum.cpp)
 
 11. **Sum of Digits in a Five-Digit Number:** Calculate the sum of all the digits in a five-digit number. [Source Code](easy_programs/sumOfDigits.cpp)
+
+
+###If-Else
+
+12. **Find the Maximum Age of Two Students:** Calculate the maximum age between two students.
+
+13. **Find the Largest Number Among Three Numbers:** Find the largest number among three input numbers.
+
+14. **Check Negative or Positive:** Determine whether a number is negative or positive and display the result.
+
+15. **Check Even or Odd:** Determine whether a number is even or odd and display the result.
+
+16. **Check Leap Year:** Determine whether a given year is a leap year or not and display the result.
+
+17. **Check Vowel or Consonant:** Determine whether a character is a vowel or consonant and display the result.
+
+18. **Find the Largest Number Among Two Numbers:** Find the largest number between two input numbers.
