@@ -57,7 +57,7 @@ If you have any additional C or C++ programs you'd like to contribute to this re
 
 16. **Check Leap Year:** Determine whether a given year is a leap year or not and display the result. [Source Code](if_else/leapYear.cpp)
 
-17. **Check Vowel or Consonant:** Determine whether a character is a vowel or consonant and display the result. [Source Code](if_else/isVovel.cpp)
+17. **Check Vowel or Consonant:** Determine whether a character is a vowel or consonant. [Source Code](if_else/isVovel.cpp)
 
 18. **Find the Largest Number Among Two Numbers:** Find the largest number between two input numbers. [Source Code](if_else/twoNum.cpp)
 
@@ -68,3 +68,13 @@ If you have any additional C or C++ programs you'd like to contribute to this re
 20. **Check Vowel or Consonant (again):** Determine whether a character is a vowel or consonant. [Source Code](switch_case/vovel.cpp)
 
 21. **Day of the Week:** Display the day of the week based on user input. [Source Code](switch_case/weekDay.cpp)
+
+### Loops ( for, while, do-while)
+
+22. **"Hello World" Five Times:** Print the "Hello, World!" message five times. [Source Code](loops/helloWorld.cpp)
+
+23. **Natural Numbers:** Print natural numbers from 1 to 10. [Source Code](loops/naturalNum.cpp)
+
+24. **Natural Numbers in Reverse Order:** Print natural numbers in reverse order from 10 to 1. [Source Code](loops/revNatural.cpp)
+
+25. **Factorial Using While Loop:** Calculate the factorial of a number using a while loop. [Source Code](loops/factorial.cpp)
